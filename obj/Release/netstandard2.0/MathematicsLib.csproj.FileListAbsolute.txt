@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Desktop\GENERAL\C\MathsLibrary\MathematicsLib\bin\Release\netstandard2.0\MathematicsLib.deps.json
+C:\Users\LENOVO\Desktop\GENERAL\C\MathsLibrary\MathematicsLib\bin\Release\netstandard2.0\MathematicsLib.dll
+C:\Users\LENOVO\Desktop\GENERAL\C\MathsLibrary\MathematicsLib\bin\Release\netstandard2.0\MathematicsLib.pdb
+C:\Users\LENOVO\Desktop\GENERAL\C\MathsLibrary\MathematicsLib\obj\Release\netstandard2.0\MathematicsLib.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\GENERAL\C\MathsLibrary\MathematicsLib\obj\Release\netstandard2.0\MathematicsLib.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\GENERAL\C\MathsLibrary\MathematicsLib\obj\Release\netstandard2.0\MathematicsLib.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\GENERAL\C\MathsLibrary\MathematicsLib\obj\Release\netstandard2.0\MathematicsLib.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\GENERAL\C\MathsLibrary\MathematicsLib\obj\Release\netstandard2.0\MathematicsLib.dll
+C:\Users\LENOVO\Desktop\GENERAL\C\MathsLibrary\MathematicsLib\obj\Release\netstandard2.0\MathematicsLib.pdb
